@@ -12,17 +12,11 @@ In terms of user functionality, the app enables users to effortlessly add expens
 
 Here are the screenshots of the app:
 
-![alt text](expense_tracker_app_expenses_screen.png)
+![alt text](expense_tracker_app_expenses_screen.png)   ![alt text](expense_tracker_app_add_expense_screen.png)
 
-![alt text](expense_tracker_app_add_expense_screen.png)
+![alt text](expense_tracker_app_select_date.png)   ![alt text](expense_tracker_app_category.png)
 
-![alt text](expense_tracker_app_select_date.png)
-
-![alt text](expense_tracker_app_category.png)
-
-![alt text](expense_tracker_app_newly_added_expense.png)
-
-![alt text](expense_tracker_app_deleted_expense.png)
+![alt text](expense_tracker_app_newly_added_expense.png)   ![alt text](expense_tracker_app_deleted_expense.png)
 
 ![alt text](expense_tracker_app_rotate_screen.png)
 
